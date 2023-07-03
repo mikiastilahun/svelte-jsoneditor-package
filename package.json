@@ -40,7 +40,7 @@
     "svelte": "^3.53.0",
     "svelte-awesome": "^3.0.0",
     "svelte-select": "^4.4.7",
-    "svelte-simple-modal": "^1.4.1",
+    "svelte-simple-modal": "1.4.1",
     "vanilla-picker": "^2.12.1"
   },
   "devDependencies": {
